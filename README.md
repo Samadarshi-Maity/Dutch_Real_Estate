@@ -1,2 +1,4 @@
 # Dutch_Real_Estate
-Scraping webpages to gain insight into the realities of the Dutch Real Estate
+1. PLace the code for scraping and add the conclusions. 
+
+
